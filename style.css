@@ -1,0 +1,27 @@
+body
+{
+    text-align: center;
+}
+
+.bigheading
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4.5rem;
+    font-weight: bold;
+    padding: 2rem 0rem;
+}
+
+.mediumheading
+{
+    font-family: 'Courgette', cursive;
+    padding: 2rem 0rem;
+    font-size: 2rem;
+}
+    
+    
+
+.container-fluid
+{
+    margin-top: 2rem;
+}
+
